@@ -1,1 +1,1 @@
-# Calculate the Number of Pixels Inside a Circle - MPI
+# MPI - Calculate the Number of Pixels Inside a Circle
