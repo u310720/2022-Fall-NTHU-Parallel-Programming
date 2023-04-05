@@ -1,1 +1,1 @@
-# Pthread, OpenMP, Hybrid - Calculate the Number of Pixels Inside a Circle
+# Pthread, OpenMP and Hybrid - Calculate the Number of Pixels Inside a Circle
